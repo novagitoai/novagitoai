@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @novagitoai
 - 👀 We are interested in talking Data & AI products and Solutions 
-- 🌱 We are currently working AI product prototype for RealEstate Industry
+- 🌱 We are currently working AI products in CX domain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me novagitoai@gmail.com
 - 😄 Pronouns: We
