@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @novagitoai
 - 👀 We are interested in talking Data & AI products and Solutions 
 - 🌱 We are currently working AI products in CX domain
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me novagitoai@gmail.com
+- 📫 How to reach me wwww.novagito.com
 - 😄 Pronouns: We
 - ⚡ Fun fact: Sweat before you achieve success.
 
